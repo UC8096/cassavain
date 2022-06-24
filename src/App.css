@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.button-up:hover span {
+  height: 100%;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
