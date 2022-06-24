@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cassavain/static/css/main.a3870d9d.css",
+    "main.js": "/cassavain/static/js/main.9a205ab0.js",
+    "static/js/787.dd15b2d9.chunk.js": "/cassavain/static/js/787.dd15b2d9.chunk.js",
+    "static/media/Archia-Regular.otf": "/cassavain/static/media/Archia-Regular.0a649844e15f25fbdd02.otf",
+    "index.html": "/cassavain/index.html",
+    "main.a3870d9d.css.map": "/cassavain/static/css/main.a3870d9d.css.map",
+    "main.9a205ab0.js.map": "/cassavain/static/js/main.9a205ab0.js.map",
+    "787.dd15b2d9.chunk.js.map": "/cassavain/static/js/787.dd15b2d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3870d9d.css",
+    "static/js/main.9a205ab0.js"
+  ]
+}
